@@ -15,6 +15,7 @@
 - What is the socioeconomic level of a given region?
 - What is the women to man ratio?
 - Access to basic services?
+- Internet access and number of ATMs indicator?
 - What is the relationship between any of the above indexes?
 
 ## Datasets to be used
