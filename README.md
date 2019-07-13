@@ -4,7 +4,8 @@
 - Ariadna 
 - Ingrid 
 - Ricardo
-- Erick
+- Leon Zlotnik
+- Erick García
 
 ## Project description
 'Mexit better' is a platform that allows you to find the right costumers for your products.
