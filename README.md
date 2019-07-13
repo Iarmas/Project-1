@@ -1,7 +1,7 @@
 # Mexit better
 
 ## The Pandatas team members
-- Ariadna 
+- Ariadna Vargas
 - Ingrid 
 - Ricardo
 - Leon Zlotnik
