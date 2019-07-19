@@ -1,0 +1,142 @@
+id_edo,id_mun,edo,municipio,escolaridad,idh,ictpc_mun_2010
+09,002,Distrito Federal,Azcapotzalco,10.74,.83200002,4588
+09,003,Distrito Federal,Coyoacán,11.72,.86699998,5674
+09,004,Distrito Federal,Cuajimalpa de Morelos,10.43,.82499999,6449
+09,005,Distrito Federal,Gustavo A. Madero,9.96,.80599999,3573
+09,006,Distrito Federal,Iztacalco,10.59,.82200003,4164
+09,007,Distrito Federal,Iztapalapa,9.5900002,.78299999,3189
+09,008,Distrito Federal,La Magdalena Contreras,10.25,.815,4051
+09,009,Distrito Federal,Milpa Alta,8.5799999,.74199998,2359
+09,010,Distrito Federal,Álvaro Obregón,10.07,.80599999,3990
+09,011,Distrito Federal,Tláhuac,9.46,.77999997,3021
+09,012,Distrito Federal,Tlalpan,10.91,.829,4871
+09,013,Distrito Federal,Xochimilco,10.3,.81400001,4294
+09,014,Distrito Federal,Benito Juárez,13.64,.917,8902
+09,015,Distrito Federal,Cuauhtémoc,11.41,.84799999,5042
+09,016,Distrito Federal,Miguel Hidalgo,12.22,.88,6950
+09,017,Distrito Federal,Venustiano Carranza,10.46,.81599998,4065
+15,001,México,Acambay,5.4400001,.62199998,1227
+15,002,México,Acolman,8.75,.74000001,3012
+15,003,México,Aculco,6.0700002,.63700002,1546
+15,004,México,Almoloya de Alquisiras,5.73,.63800001,1277
+15,005,México,Almoloya de Juárez,8.0299997,.70499998,2183
+15,006,México,Almoloya del Río,8.4099998,.73299998,2427
+15,007,México,Amanalco,5.3099999,.602,1136
+15,008,México,Amatepec,5.1399999,.639,1341
+15,009,México,Amecameca,8.8100004,.70599997,2210
+15,010,México,Apaxco,7.2600002,.69800001,1829
+15,011,México,Atenco,8,.70700002,2006
+15,012,México,Atizapán,7.5700002,.676,1708
+15,013,México,Atizapán de Zaragoza,10.1,.79699999,4339
+15,014,México,Atlacomulco,8.1899996,.71600002,1901
+15,015,México,Atlautla,7.02,.68400002,1528
+15,016,México,Axapusco,6.6799998,.66500002,1656
+15,017,México,Ayapango,8.2200003,.70999998,1946
+15,018,México,Calimaya,7.8400002,.71200001,1946
+15,019,México,Capulhuac,8.8800001,.736,2258
+15,020,México,Coacalco de Berriozábal,10.48,.81300002,3974
+15,021,México,Coatepec Harinas,5.3800001,.61900002,1524
+15,022,México,Cocotitlán,9.0900002,.76099998,2569
+15,023,México,Coyotepec,8.3900003,.71200001,1966
+15,024,México,Cuautitlán,10.25,.80299997,4149
+15,025,México,Chalco,7.7600002,.70200002,2045
+15,026,México,Chapa de Mota,5.5500002,.64999998,1402
+15,027,México,Chapultepec,8.3299999,.74699998,2425
+15,028,México,Chiautla,8.6899996,.713,2042
+15,029,México,Chicoloapan,9.1199999,.75,2597
+15,030,México,Chiconcuac,9.1199999,.75,2232
+15,031,México,Chimalhuacán,7.3200002,.69199997,1889
+15,032,México,Donato Guerra,4.7600002,.57800001,973
+15,033,México,Ecatepec de Morelos,8.9099998,.75199997,2837
+15,034,México,Ecatzingo,6.75,.64200002,1439
+15,035,México,Huehuetoca,8.5900002,.72500002,2834
+15,036,México,Hueypoxtla,6.3499999,.66000003,1559
+15,037,México,Huixquilucan,10.03,.773,4324
+15,038,México,Isidro Fabela,7.23,.68699998,1867
+15,039,México,Ixtapaluca,9.1400003,.76200002,3388
+15,040,México,Ixtapan de la Sal,6.5599999,.66600001,1784
+15,041,México,Ixtapan del Oro,4.5500002,.58499998,849
+15,042,México,Ixtlahuaca,6.5599999,.67400002,1551
+15,043,México,Xalatlaco,7.2399998,.66100001,1626
+15,044,México,Jaltenco,9.3000002,.76099998,2666
+15,045,México,Jilotepec,6.3800001,.671,1602
+15,046,México,Jilotzingo,7.3600001,.66799998,1940
+15,047,México,Jiquipilco,5.8200002,.63700002,1332
+15,048,México,Jocotitlán,7.6799998,.71499997,1824
+15,049,México,Joquicingo,6.8699999,.64600003,1573
+15,050,México,Juchitepec,7.0599999,.66900003,1895
+15,051,México,Lerma,8.1499996,.71600002,2050
+15,052,México,Malinalco,5.9099998,.63099998,1438
+15,053,México,Melchor Ocampo,9.0799999,.73699999,2511
+15,054,México,Metepec,11.81,.82499999,4753
+15,055,México,Mexicaltzingo,8.7299995,.74599999,2186
+15,056,México,Morelos,5.7600002,.60399997,1279
+15,057,México,Naucalpan de Juárez,9.3900003,.77499998,3978
+15,058,México,Nezahualcóyotl,8.9799995,.76999998,2990
+15,059,México,Nextlalpan,7.7800002,.67199999,1649
+15,060,México,Nicolás Romero,8.5799999,.74299997,2786
+15,061,México,Nopaltepec,7.4299998,.713,2106
+15,062,México,Ocoyoacac,8.6000004,.74299997,2485
+15,063,México,Ocuilan,5.8600001,.616,1288
+15,064,México,El Oro,6.3899999,.66100001,1393
+15,065,México,Otumba,7.5500002,.708,1787
+15,066,México,Otzoloapan,4.4699998,.60399997,1043
+15,067,México,Otzolotepec,6.7399998,.66299999,1667
+15,068,México,Ozumba,7.9000001,.69700003,1861
+15,069,México,Papalotla,9.2700005,.75,2505
+15,070,México,La Paz,8.3100004,.73100001,2439
+15,071,México,Polotitlán,6.6999998,.676,1669
+15,072,México,Rayón,8.1199999,.73199999,2193
+15,073,México,San Antonio la Isla,8.0200005,.72299999,1882
+15,074,México,San Felipe del Progreso,4.96,.58499998,1115
+15,075,México,San Martín de las Pirámides,7.8299999,.69800001,1967
+15,076,México,San Mateo Atenco,8.8199997,.72799999,2241
+15,077,México,San Simón de Guerrero,6.1100001,.65600002,1240
+15,078,México,Santo Tomás,5.8099999,.62699997,1669
+15,079,México,Soyaniquilpan de Juárez,6.46,.67199999,1612
+15,080,México,Sultepec,4.1900001,.55900002,936
+15,081,México,Tecámac,9.6700001,.77899998,3613
+15,082,México,Tejupilco,5.5700002,.65399998,1470
+15,083,México,Temamatla,8.1700001,.736,2233
+15,084,México,Temascalapa,7.0100002,.69499999,1744
+15,085,México,Temascalcingo,5.0300002,.61799997,1263
+15,086,México,Temascaltepec,5.9299998,.63499999,1433
+15,087,México,Temoaya,6.02,.63700002,1306
+15,088,México,Tenancingo,7.5599999,.68000001,1774
+15,089,México,Tenango del Aire,7.96,.69400001,1889
+15,090,México,Tenango del Valle,7.6500001,.68099999,2016
+15,091,México,Teoloyucan,8.3500004,.71600002,2525
+15,092,México,Teotihuacán,8.6199999,.74199998,2153
+15,093,México,Tepetlaoxtoc,8.0600004,.71499997,2169
+15,094,México,Tepetlixpa,7.5300002,.68199998,1773
+15,095,México,Tepotzotlán,8.5299997,.72100002,2727
+15,096,México,Tequixquiac,7.3499999,.69599998,1844
+15,097,México,Texcaltitlán,6.29,.64399999,1283
+15,098,México,Texcalyacac,8.4300003,.71499997,2011
+15,099,México,Texcoco,8.9799995,.76099998,3061
+15,100,México,Tezoyuca,8.1800003,.69,2120
+15,101,México,Tianguistenco,7.9899998,.68300003,1790
+15,102,México,Timilpan,6.3099999,.67699999,1418
+15,103,México,Tlalmanalco,9.3299999,.73900002,2584
+15,104,México,Tlalnepantla de Baz,9.96,.79500002,3825
+15,105,México,Tlatlaya,4.8000002,.60299999,1143
+15,106,México,Toluca,9.8999996,.76499999,3373
+15,107,México,Tonatico,6.3299999,.69199997,1970
+15,108,México,Tultepec,8.3999996,.73500001,2611
+15,109,México,Tultitlán,9.2700005,.76800001,3115
+15,110,México,Valle de Bravo,6.8800001,.68199998,1779
+15,111,México,Villa de Allende,4.5599999,.56800002,1029
+15,112,México,Villa del Carbón,6.1100001,.64399999,1387
+15,113,México,Villa Guerrero,5.7600002,.61699998,1549
+15,114,México,Villa Victoria,5,.60100001,1190
+15,115,México,Xonacatlán,8.0600004,.71899998,2181
+15,116,México,Zacazonapan,5.75,.62900001,1796
+15,117,México,Zacualpan,5.04,.602,1115
+15,118,México,Zinacantepec,7.1700001,.676,2046
+15,119,México,Zumpahuacán,4.6799998,.59899998,920
+15,120,México,Zumpango,8.21,.72100002,2061
+15,121,México,Cuautitlán Izcalli,10.41,.80500001,3829
+15,122,México,Valle de Chalco Solidaridad,7.46,.70200002,1978
+15,123,México,Luvianos,3.96,.58099997,1005
+15,124,México,San José del Rincón,4.02,.54500002,795
+15,125,México,Tonanitla,8.6300001,.74000001,2242
