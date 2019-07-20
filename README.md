@@ -1,5 +1,7 @@
 # Mexit better
 
+**_The final jupyter notebook file is in the Development folder under the name of "Shifu.ipynb"_**
+
 ## The Pandatas team members
 - Ariadna Vargas
 - Ingrid 
